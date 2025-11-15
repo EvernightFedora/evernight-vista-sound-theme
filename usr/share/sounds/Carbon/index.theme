@@ -1,0 +1,10 @@
+[Sound Theme]
+Name=Carbon
+Name[zh_CN]=Carbon 轻量
+Comment=Carbon Sound Theme for Evernight Vista
+Comment[zh_CN]=Evernight Vista 的 Carbon 轻量声音主题
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
